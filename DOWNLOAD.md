@@ -1,6 +1,6 @@
 Dataset **Construction Vehicle Images** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/njgs56jgn7olxyvpd45of/construction-vehicle-images-DatasetNinja.tar?rlkey=2f88xv8lx5np3eytsd4b23rtq&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzE1OTlfQ29uc3RydWN0aW9uIFZlaGljbGUgSW1hZ2VzL2NvbnN0cnVjdGlvbi12ZWhpY2xlLWltYWdlcy1EYXRhc2V0TmluamEudGFyIiwgInNpZyI6ICIwK0E5Qm8vVFpxNERmZzVQZCs0NzNMWERycmk4bkpscWhydFJ4T2tTVDlNPSJ9)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
